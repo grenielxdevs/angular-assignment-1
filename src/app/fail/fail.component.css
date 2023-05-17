@@ -1,0 +1,8 @@
+.fail {
+  background-color: pink;
+  padding: 20px;
+  max-width: 400px;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
