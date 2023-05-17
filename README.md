@@ -13,7 +13,9 @@
 ---
 
 <img src="/src/assets/notification-image.png" alt="Success or Fail Result" title="Success or Fail Result">
-___
+
+---
+
 **Made By:**
 Greniel Galinato
 Angular Enthusiast | Software Engineer
